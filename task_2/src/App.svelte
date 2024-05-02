@@ -2,6 +2,7 @@
   import svelteLogo from './assets/svelte.svg'
   import viteLogo from '/vite.svg'
   import Counter from './lib/Counter.svelte'
+  import CurrencySelector from './lib/CurrencySelector.svelte';
 </script>
 
 <main>
@@ -16,7 +17,7 @@
   <h1>Vite + Svelte</h1>
 
   <div class="card">
-    <Counter />
+    <CurrencySelector />
   </div>
 
   <p>

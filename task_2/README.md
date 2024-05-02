@@ -11,3 +11,6 @@
 Если вы раньше не работали со Svelte, то пригодятся [_учебник_](https://learn.svelte.dev/tutorial/welcome-to-svelte) и [_документация_](https://svelte.dev/docs/introduction). Для выполнения задания понадобятся главы __Reactivity__ и __Bindings__.
 
 Визуальная составляющая остается на ваш вкус. Она не является ключевым фактором в данном задании.
+
+Результат:
+![Видео-02-05-2024 20_02_18](https://github.com/mon1gol/Just-Repository/assets/121216572/bb459a4c-768a-4f5e-8063-57e99c99de90)
